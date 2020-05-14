@@ -1,0 +1,11 @@
+.home-background{
+    background-image: url("https://mistro.io/static/media/background-white.768ea084.svg");
+    /* background-attachment: fixed; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* width: 70%;
+    height: 70%; */
+    padding: 12%;
+
+}
